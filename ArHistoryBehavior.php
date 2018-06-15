@@ -2,7 +2,7 @@
 
 namespace mgcode\arhistory;
 
-use mgcode\helpers\ArrayHelper;
+use yii\helpers\ArrayHelper;
 use yii\base\Application;
 use yii\base\Behavior;
 use yii\base\InvalidValueException;
